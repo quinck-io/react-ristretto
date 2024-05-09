@@ -1,0 +1,14 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "always"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "conventionalCommits.scopes": [],
+    "files.associations": {
+        "*.css": "tailwindcss"
+    }
+}
