@@ -13,7 +13,7 @@
         "preview": "vite preview"
     },
     "dependencies": {
-        "@tanstack/react-router": "^1.31.25",
+        "@tanstack/react-router": "^1.32.5",
         "localforage": "^1.10.0",
         "match-sorter": "^6.3.4",
         "openapi-typescript-codegen": "^0.29.0",
